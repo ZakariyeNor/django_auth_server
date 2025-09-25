@@ -1,0 +1,43 @@
+Visit me at http://0.0.0.0:5555
+Broker: redis://localhost:6379/0
+Registered tasks: 
+['celery.accumulate',
+ 'celery.backend_cleanup',
+ 'celery.chain',
+ 'celery.chord',
+ 'celery.chord_unlock',
+ 'celery.chunks',
+ 'celery.group',
+ 'celery.map',
+ 'celery.starmap',
+ 'core.tasks.cleanup_expired_tokens']
+Connected to redis://localhost:6379/0
+Watching for file changes with StatReloader
+/Users/zakariyefarahnor/Oauth_T/django_oauth_provider/authserver/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/zakariyefarahnor/Oauth_T/django_oauth_provider/authserver/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/zakariyefarahnor/Oauth_T/django_oauth_provider/authserver/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Visit me at http://0.0.0.0:5555
+Broker: redis://localhost:6379/0
+Registered tasks: 
+['celery.accumulate',
+ 'celery.backend_cleanup',
+ 'celery.chain',
+ 'celery.chord',
+ 'celery.chord_unlock',
+ 'celery.chunks',
+ 'celery.group',
+ 'celery.map',
+ 'celery.starmap',
+ 'core.tasks.cleanup_expired_tokens']
+Connected to redis://localhost:6379/0
+Inspect method registered failed
+Inspect method stats failed
+Inspect method scheduled failed
+Inspect method active_queues failed
+Inspect method reserved failed
+Inspect method revoked failed
+Inspect method active failed
+Inspect method conf failed
